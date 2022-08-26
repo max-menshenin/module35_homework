@@ -18,6 +18,7 @@ folders:
 sites:
     - map: homestead.192.168.56.56.nip.io
       to: /home/vagrant/code/public
+      
 databases:
     - homestead
 
