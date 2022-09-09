@@ -6,7 +6,7 @@ provider: virtualbox
 
 authorize: ~/.ssh/id_rsa.pub
 
-name: PHP Backend
+name: PHP Backend2
 
 keys:
     - ~/.ssh/id_rsa
